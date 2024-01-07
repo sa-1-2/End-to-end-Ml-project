@@ -13,11 +13,11 @@
 
 # Installing enviornment commands
 ``` bash
-1. conda create -n mlproject python=3.8 -y 
+conda create -n mlproject python=3.8 -y 
 ```
 ```bash
-2. conda activate mlproject
+conda activate mlproject
 ```
 ```bash
-3. pip install -r requirements.txt
+pip install -r requirements.txt
 ```
