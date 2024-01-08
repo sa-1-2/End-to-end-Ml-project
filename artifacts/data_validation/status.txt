@@ -22,3 +22,27 @@ Validation Status for column: pH with datatype: float64 is True
 Validation Status for column: sulphates with datatype: float64 is True
 Validation Status for column: alcohol with datatype: float64 is True
 Validation Status for column: quality with datatype: int64 is True
+Validation Status for column: fixed acidity is True
+Validation Status for column: volatile acidity is True
+Validation Status for column: citric acid is True
+Validation Status for column: residual sugar is True
+Validation Status for column: chlorides is True
+Validation Status for column: free sulfur dioxide is True
+Validation Status for column: total sulfur dioxide is True
+Validation Status for column: density is True
+Validation Status for column: pH is True
+Validation Status for column: sulphates is True
+Validation Status for column: alcohol is True
+Validation Status for column: quality is True
+Validation Status for column: fixed acidity with datatype: float64 is True
+Validation Status for column: volatile acidity with datatype: float64 is True
+Validation Status for column: citric acid with datatype: float64 is True
+Validation Status for column: residual sugar with datatype: float64 is True
+Validation Status for column: chlorides with datatype: float64 is True
+Validation Status for column: free sulfur dioxide with datatype: float64 is True
+Validation Status for column: total sulfur dioxide with datatype: float64 is True
+Validation Status for column: density with datatype: float64 is True
+Validation Status for column: pH with datatype: float64 is True
+Validation Status for column: sulphates with datatype: float64 is True
+Validation Status for column: alcohol with datatype: float64 is True
+Validation Status for column: quality with datatype: int64 is True

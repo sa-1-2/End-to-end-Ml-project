@@ -1,2 +1,4 @@
-## here parameters related to ml model like random state, n_estimators etc.
-key: val
+## here parameters related to ml model like random state, n_estimators etc
+ElasticNet:
+  alpha: 0.2
+  l1_ratio: 0.1
