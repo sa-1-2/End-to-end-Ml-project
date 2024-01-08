@@ -10,7 +10,6 @@ class DataTransformationTrainingPipeline:
         pass
 
     def main(self):
-
         try:
             status = []
             with open(Path("artifacts/data_validation/status.txt"), 'r') as f:
